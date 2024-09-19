@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366854321488",
+    "project_id": "aptechclifton-3edff",
+    "storage_bucket": "aptechclifton-3edff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366854321488:android:8b70fb3b6bbc58e4a5a855",
+        "android_client_info": {
+          "package_name": "com.aptech.clifton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUhIdbx0_P73UyIDSx9tMm4qOHBeIgXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
